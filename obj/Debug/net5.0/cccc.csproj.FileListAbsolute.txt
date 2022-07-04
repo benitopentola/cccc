@@ -1,0 +1,16 @@
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.AssemblyInfo.cs
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.exe
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.deps.json
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.runtimeconfig.json
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.runtimeconfig.dev.json
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.dll
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\ref\cccc.dll
+C:\Users\javie\Desktop\Mierdas varias\cccc\bin\Debug\net5.0\cccc.pdb
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.dll
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\ref\cccc.dll
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.pdb
+C:\Users\javie\Desktop\Mierdas varias\cccc\obj\Debug\net5.0\cccc.genruntimeconfig.cache
